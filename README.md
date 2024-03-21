@@ -8,6 +8,7 @@
   
   <a href="https://arxiv.org/abs/2403.13801"><img alt="Static Badge" src="https://img.shields.io/badge/arXiv-2403.13801-b31b1b.svg?style=flat"></a>
   <a href="https://paperswithcode.com/paper/natural-language-as-polices-reasoning-for">
+  <a href="https://arxiv.org/html/2403.13801v1"><img alt="Static Badge" src="https://img.shields.io/badge/arXiv-HTML-red"></a>
   <img alt="Static Badge" src="https://img.shields.io/badge/PaperWithCode-brightgreen?link=https%3A%2F%2Fpaperswithcode.com%2Fpaper%2Fnatural-language-as-polices-reasoning-for">
   </a>
 
