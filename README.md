@@ -1,7 +1,9 @@
 <div align="center">
 
   Code implementation will be available. Preprint. Under review.
-  <h1 align="center">Natural Language as Polices: Reasoning for Coordinate-Level Embodied Control with LLMs</h1>
+  <h1 align="center">Natural Language as Polices:  
+    Reasoning for Coordinate-Level Embodied Control with LLMs</h1>
+  
   <p align="center">
     Yusuke Mikami, Andrew Melnik, Jun Miura, Ville Hautamäki
   </p>
