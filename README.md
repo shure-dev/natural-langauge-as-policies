@@ -1,6 +1,6 @@
 <div align="center">
 
-  Code implementation will be available. Preprint. Under review.
+  Code implementation will be available here. Preprint. Under review.
   <h1 align="center">Natural Language as Polices:  
     Reasoning for Coordinate-Level Embodied Control with LLMs</h1>
   
