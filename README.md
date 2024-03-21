@@ -6,7 +6,7 @@
     Yusuke Mikami, Andrew Melnik, Jun Miura, Ville Hautamäki
   </p>
   
-  <a href="[index.html](https://arxiv.org/abs/2403.13801)"><img alt="Static Badge" src="https://img.shields.io/badge/arXiv-2403.13801-b31b1b.svg?style=flat"></a>
+  <a href="https://arxiv.org/abs/2403.13801"><img alt="Static Badge" src="https://img.shields.io/badge/arXiv-2403.13801-b31b1b.svg?style=flat"></a>
   
   <img src="https://github.com/shure-dev/NLaP/assets/61527175/20e36052-732c-458b-b665-ae365ad18772" alt="drawing" width="700"/>
   <div>
