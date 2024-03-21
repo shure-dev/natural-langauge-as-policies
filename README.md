@@ -13,9 +13,7 @@
   </a>
 
   <div>
-
   <img src="https://github.com/shure-dev/NLaP/assets/61527175/20e36052-732c-458b-b665-ae365ad18772" alt="drawing" width="700"/>
-    
   </div>
   
   <div>
