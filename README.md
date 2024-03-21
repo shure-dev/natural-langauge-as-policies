@@ -12,6 +12,9 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/PaperWithCode-brightgreen?link=https%3A%2F%2Fpaperswithcode.com%2Fpaper%2Fnatural-language-as-polices-reasoning-for">
   </a>
 
+  <br>
+  <br>
+  
   <div>
   <img src="https://github.com/shure-dev/NLaP/assets/61527175/20e36052-732c-458b-b665-ae365ad18772" alt="drawing" width="700"/>
   </div>
