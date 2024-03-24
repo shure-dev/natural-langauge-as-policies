@@ -16,7 +16,7 @@
 
   <br>
   <br>
-  
+  https://www.researchgate.net/publication/379111811_Natural_Language_as_Polices_Reasoning_for_Coordinate-Level_Embodied_Control_with_LLMs
   <div>
   <img src="https://github.com/shure-dev/NLaP/assets/61527175/20e36052-732c-458b-b665-ae365ad18772" alt="drawing" width="700"/>
   </div>
