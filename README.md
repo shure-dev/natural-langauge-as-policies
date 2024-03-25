@@ -12,6 +12,8 @@
   <a href="https://paperswithcode.com/paper/natural-language-as-polices-reasoning-for">
   <a href="https://arxiv.org/html/2403.13801v1"><img alt="Static Badge" src="https://img.shields.io/badge/arXiv-HTML-red"></a>
   <img alt="Static Badge" src="https://img.shields.io/badge/PaperWithCode-brightgreen?link=https%3A%2F%2Fpaperswithcode.com%2Fpaper%2Fnatural-language-as-polices-reasoning-for">
+  <a href="https://www.researchgate.net/publication/379111811_Natural_Language_as_Policies_Reasoning_for_Coordinate-Level_Embodied_Control_with_LLMs"><img alt="Static Badge" src="https://img.shields.io/badge/ResearchGate-gray"></a>
+
   </a>
 
   <br>
