@@ -1,7 +1,7 @@
 <div align="center">
 
   Code implementation will be available here. Preprint. Under review.
-  <h1 align="center">Natural Language as Polices (NLaP):  
+  <h1 align="center">Natural Language as Policies (NLaP):  
     Reasoning for Coordinate-Level Embodied Control with LLMs</h1>
   
   <p align="center">
